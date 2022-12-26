@@ -21,7 +21,7 @@ const Header = () => {
             color: "#00171f",
           }}
         >
-          Botany MCQ
+          Anatomy MCQ
         </Typography>
         <Typography
           sx={{
